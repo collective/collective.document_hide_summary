@@ -2,6 +2,13 @@ Changelog
 =========
 
 
+1.1 (2016-11-28)
+----------------
+
+- add views "Hide Title" and "Hide Title and Summary"
+  [tkimnguyen]
+
+
 1.0 (2016-11-25)
 ----------------
 

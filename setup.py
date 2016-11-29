@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='collective.document_hide_summary',
-    version='1.0',
+    version='1.1',
     description="An add-on for Plone that lets you hide a Document's description",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers

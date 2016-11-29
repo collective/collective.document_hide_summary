@@ -6,7 +6,9 @@
 collective.document_hide_summary
 ==============================================================================
 
-Adds a Document view template that hides the summary (description).
+Adds Document view templates that hides the title, or the summary
+(description), or both the title and the summary.
+
 
 Features
 --------
@@ -18,7 +20,8 @@ Documentation
 -------------
 
 After you activate this add-on, every page ("Document" content type)
-on your site will have a new Display menu choice "Hide Summary".
+on your site will have new Display menu choices "Hide Title", "Hide
+Summary", and "Hide Title and Summary".
 
 Beware: deactivating and/or removing this add-on will result in errors
 on pages (Documents) that you set to use the "Hide Summary" view. To

@@ -28,4 +28,24 @@
     permission="zope2.View"
     />
 
+  <browser:page
+    name="document_hide_title"
+    menu="plone_displayviews"
+    title="Hide Title"
+    layer="..interfaces.ICollectiveDocumentViewNoDescriptionLayer"
+    for="plone.app.contenttypes.interfaces.IDocument"
+    template="templates/document_hide_title.pt"
+    permission="zope2.View"
+    />
+
+  <browser:page
+    name="document_hide_title_and_description"
+    menu="plone_displayviews"
+    title="Hide Title and Summary"
+    layer="..interfaces.ICollectiveDocumentViewNoDescriptionLayer"
+    for="plone.app.contenttypes.interfaces.IDocument"
+    template="templates/document_hide_title_and_description.pt"
+    permission="zope2.View"
+    />
+
 </configure>

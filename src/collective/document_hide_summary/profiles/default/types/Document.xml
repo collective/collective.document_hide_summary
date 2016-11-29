@@ -8,7 +8,9 @@
   <!-- View information -->
   <property name="view_methods">
     <element value="document_view"/>
+    <element value="document_hide_title"/>
     <element value="document_hide_description"/>
+    <element value="document_hide_title_and_description"/>
   </property>
 
 </object>
