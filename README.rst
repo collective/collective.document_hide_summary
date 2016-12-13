@@ -67,6 +67,11 @@ Contribute
 - Source Code: https://github.com/collective/collective.document_hide_summary
 
 
+Acknowledgements
+----------------
+
+Credit for funding and open sourcing this add-on goes to David Brandse of Wireplant.com 
+
 
 License
 -------
